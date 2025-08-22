@@ -17,6 +17,5 @@ to indeed write an efficient code.
 
 I have a 6 month micro master certificate in software testing and verification from Maryland university.
 
-<img align="left" alt="GIF" src="https://github.com/YosrySWE/YosrySWE/blob/master/original-5c5b070e2f513f33123fe514e382e246.gif?raw=true" width="408" height="318" />
+<img align="left" alt="GIF" src="https://github.com/codebyyosry/codebyyosry/blob/main/original-5c5b070e2f513f33123fe514e382e246.gif?raw=true" width="408" height="318" />
 <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/6ea124b5-e14d-4c5b-85a2-f4a806da2ec3" width="408" height="318" />
-
